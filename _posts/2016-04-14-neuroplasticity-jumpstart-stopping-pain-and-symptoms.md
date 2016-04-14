@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'NEUROPLASTICITY Jumpstart: Stopping Pain and Symptoms'
-datePublished: '2016-04-14T01:16:39.092Z'
-dateModified: '2016-04-14T01:16:07.716Z'
+datePublished: '2016-04-14T01:23:23.852Z'
+dateModified: '2016-04-14T01:16:41.148Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-neuroplasticity-jumpstart-stopping-pain-and-symptoms.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-neuroplasticity-jumpstart-stopping-pain-and-symptoms.md
-published: true
 url: neuroplasticity-jumpstart-stopping-pain-and-symptoms/index.html
 _type: Article
 
