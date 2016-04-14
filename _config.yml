@@ -1,0 +1,28 @@
+name: Nexus Physical Therapy
+favicon: null
+layout_spectrum: 0.36041459953412414
+typography_spectrum: 0.3163989409804344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6287350249476731
+  lightness: 0.9653346459381282
+  saturation: 0.10948649002239108
+  rhythmicContrast: 0.22264351998455822
+purpose: []
